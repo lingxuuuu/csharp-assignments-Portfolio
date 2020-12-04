@@ -1,15 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Portfolio.Controllers     //be sure to use your own project's namespace!
+namespace Portfolio.Controllers  //be sure to use your own project's namespace!
 {
     public class HelloController : Controller   //remember inheritance??
     {
         //for each route this controller is to handle:
         [HttpGet]       //type of request
         [Route("")]     //associated route string (exclude the leading /)
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my Index";
+            // will attempt to serve 
+                // Views/Hello/Index.cshtml
+            // or if that file isn't there:
+                // Views/Shared/Index.cshtml
+            return View();
         }
 
         [HttpGet("projects")]
@@ -19,10 +23,18 @@ namespace Portfolio.Controllers     //be sure to use your own project's namespac
         }
 
         [HttpGet("contact")]
-        public string contact()
+        public string Contact()
         {
             return "This is my Contact";
         }
+
+        [HttpGet]
+        [Route("razor")]
+        public ViewResult Razor()
+        {
+            return View();
+        }
+
 
     }
 }

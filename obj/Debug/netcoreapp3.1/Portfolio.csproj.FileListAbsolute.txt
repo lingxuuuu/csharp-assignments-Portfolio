@@ -18,3 +18,15 @@ C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\staticwebassets\
 C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.dll
 C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.pdb
 C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.genruntimeconfig.cache
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorAssemblyInfo.cache
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorAssemblyInfo.cs
+C:\Users\lingx\C#\assignments\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.dll
+C:\Users\lingx\C#\assignments\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.Views.pdb
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.input.cache
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.TagHelpers.output.cache
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorCoreGenerate.cache
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.RazorTargetAssemblyInfo.cs
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.Views.pdb
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CopyComplete
+C:\Users\lingx\C#\assignments\Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Razor.cshtml.g.cs

@@ -14390,6 +14390,17 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "Portfolio",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\lingx\\C#\\assignments\\Portfolio\\Views\\Hello\\Razor.cshtml",
+      "TargetPath": "Views\\Hello\\Razor.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\lingx\\C#\\assignments\\Portfolio\\Views\\Hello\\Index.cshtml",
+      "TargetPath": "Views\\Hello\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
